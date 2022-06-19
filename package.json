@@ -1,0 +1,13 @@
+{
+  "name": "micro-web",
+  "version": "1.0.0",
+  "description": "create micro",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./build/run.js"
+  },
+  "author": "longking",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
+}
